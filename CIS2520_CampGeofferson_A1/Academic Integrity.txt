@@ -1,0 +1,28 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Complete this file and place it in the root folder of your archive (or your assignment will not be marked).\
+\
+------------------------\
+\
+"I have read and understood the University's policy on academic integrity that is referenced from the course outline. I assert this work is my own, and I appropriately acknowledge any and all material I have used as a source for ideas."\
+\
+------------------------\
+\
+LAST NAME: Camp\
+FIRST NAME: Geofferson\
+STUDENT ID: 0658817\
+E-MAIL: gcamp@mail.uoguelph.ca\
+\
+COURSE: CIS*2520\
+ASSIGNMENT #: 1\
+DATE: Oct 3, 2015\
+\
+ACKNOWLEDGMENTS: \
+(You need not acknowledge the recommended or required textbook, the lecture or lab notes, your instructor or TA.)\
+}
